@@ -5,6 +5,7 @@ main_path = 'C:\\Users\\e347646\\EDP\\O365_P&C Data Lake - Documents\\General'
 df_out_file = 'Output\F00_FC20.csv'
 df_out_file_error = 'Output\F00_FC20_error.csv'
 df_out_fullpath_error = os.path.join(main_path,df_out_file_error)
+df_out_fullpath = os.path.join(main_path,df_out_file)
 df_monthly_fullpath = os.path.join(main_path,'DataSources\\Actuals\\Output\\monthly_pl&bs_2020.csv')
  
 df_fx_fullpath = os.path.join(main_path,'MetaDataSources\\FX\\FX.xlsx')
