@@ -3,7 +3,7 @@ import os
 import numpy as np
 
 main_path = 'C:\\OneDrive\\EDP\\O365_P&C Data Lake - General' #'C:\\Users\\e347646\\EDP\\O365_P&C Data Lake - Documents\\General'
-main_out_path = 'C:\\OneDrive\\EDP\\O365_Adaptive - General\\F00\\BU21'
+main_out_path = 'C:\\OneDrive\\EDP\\O365_Adaptive - General\\F00\\BU21' #'C:\\Users\\e347646\\EDP\\O365_Adaptive - General\\F00\\BU21'
 df_out_file = 'F00_FC20.csv'
 df_out_file_BS = 'F00_FC20_BS.csv'
 df_out_file_PL = 'F00_FC20_PL.csv'
